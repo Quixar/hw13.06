@@ -6,7 +6,6 @@
         static void Main(string[] args)
         {
             Console.WindowWidth = 100;
-            Console.WindowHeight = 40;
             Console.CursorVisible = false;
             int x = 5;
             int y = 5;
