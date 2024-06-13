@@ -1,0 +1,14 @@
+C:\Users\Quixar\source\repos\basicC#\bin\Debug\net8.0\basicC#.exe
+C:\Users\Quixar\source\repos\basicC#\bin\Debug\net8.0\basicC#.deps.json
+C:\Users\Quixar\source\repos\basicC#\bin\Debug\net8.0\basicC#.runtimeconfig.json
+C:\Users\Quixar\source\repos\basicC#\bin\Debug\net8.0\basicC#.dll
+C:\Users\Quixar\source\repos\basicC#\bin\Debug\net8.0\basicC#.pdb
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.AssemblyInfoInputs.cache
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.AssemblyInfo.cs
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.csproj.CoreCompileInputs.cache
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.dll
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\refint\basicC#.dll
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.pdb
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\basicC#.genruntimeconfig.cache
+C:\Users\Quixar\source\repos\basicC#\obj\Debug\net8.0\ref\basicC#.dll
